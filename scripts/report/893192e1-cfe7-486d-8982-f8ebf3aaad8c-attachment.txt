@@ -1,0 +1,3 @@
+INFO     root:api_mp.py:12 正在初始化自媒体登录url：https://api-toutiao-web.itheima.net/mp/v1_0/authorizations
+INFO     root:api_mp.py:16 正在初始化自媒体发布文章url：https://api-toutiao-web.itheima.net/mp/v1_0/articles?draft=false
+INFO     root:api_mp.py:40 正在调用发布文章接口，请求数据为：{'title': 'test_interface_001', 'content': '1234114141', 'channel_id': '7', 'cover': {'type': 0, 'iamges': []}}

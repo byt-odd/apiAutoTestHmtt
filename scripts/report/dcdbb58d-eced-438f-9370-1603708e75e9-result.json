@@ -1,0 +1,1 @@
+{"name": "test_01mp_login[12011111111-246810]", "status": "passed", "parameters": [{"name": "mobile", "value": "'12011111111'"}, {"name": "code", "value": "'246810'"}], "start": 1741595421708, "stop": 1741595448329, "uuid": "f23ae77b-8712-4765-a7a0-f7757e38c805", "testCaseId": "761f09036030ca651b5c9db2f6e25c5a", "fullName": "scripts.test_01mp.TestMp#test_01mp_login"}

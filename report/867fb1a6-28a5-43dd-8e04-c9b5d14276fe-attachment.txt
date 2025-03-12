@@ -1,0 +1,5 @@
+[32mINFO    [0m root:api_mp.py:12 正在初始化自媒体登录url：https://api-toutiao-web.itheima.net/mp/v1_0/authorizations
+[32mINFO    [0m root:api_mp.py:15 正在初始化自媒体发布文章url：https://pc-toutiao-python.itheima.net//article/publish
+[32mINFO    [0m root:api_mp.py:25 正在调用自媒体登录接口，请求数据为：{'mobile': '12011111111', 'code': '246810'}
+[32mINFO    [0m root:tool.py:14 正在提取token，提取后的header为：{'Content-Type': 'application/json', 'Authorization': 'Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NzI4ODcwMDUsInVzZXJfaWQiOjEsInJlZnJlc2giOmZhbHNlLCJ2ZXJpZmllZCI6dHJ1ZX0.7In5k2DpqhpYZ2A5_uTkx3l5_q_nywJ8K_KiHwIZo4o'}
+[32mINFO    [0m root:tool.py:20 正在调用公共断言方法

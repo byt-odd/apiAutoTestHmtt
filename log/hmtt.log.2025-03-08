@@ -1,0 +1,41 @@
+2025-03-08 20:36:41,177 INFO [root] [api_mp.py (__init__:12] - 正在初始化自媒体登录url：https://api-toutiao-web.itheima.net/mp/v1_0/authorizations
+2025-03-08 20:36:41,178 INFO [root] [api_mp.py (__init__:15] - 正在初始化自媒体发布文章url：https://pc-toutiao-python.itheima.net//article/publish
+2025-03-08 20:36:41,178 INFO [root] [api_mp.py (api_mp_login:25] - 正在调用自媒体登录接口，请求数据为：{'mobile': '12011111111', 'code': '246810'}
+2025-03-08 20:36:44,276 INFO [root] [tool.py (common_token:14] - 正在提取token，提取后的header为：{'Content-Type': 'application/json', 'Authorization': 'Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NzI4ODcwMDUsInVzZXJfaWQiOjEsInJlZnJlc2giOmZhbHNlLCJ2ZXJpZmllZCI6dHJ1ZX0.7In5k2DpqhpYZ2A5_uTkx3l5_q_nywJ8K_KiHwIZo4o'}
+2025-03-08 20:36:44,277 INFO [root] [tool.py (common_assert:20] - 正在调用公共断言方法
+2025-03-08 20:54:29,769 INFO [root] [api_mp.py (__init__:12] - 正在初始化自媒体登录url：https://api-toutiao-web.itheima.net/mp/v1_0/authorizations
+2025-03-08 20:54:29,770 INFO [root] [api_mp.py (__init__:16] - 正在初始化自媒体发布文章url：https://api-toutiao-web.itheima.net/mp/v1_0/articles?draft=false
+2025-03-08 20:54:29,770 INFO [root] [api_mp.py (api_mp_login:26] - 正在调用自媒体登录接口，请求数据为：{'mobile': '12011111111', 'code': '246810'}
+2025-03-08 20:54:31,713 INFO [root] [tool.py (common_token:14] - 正在提取token，提取后的header为：{'Content-Type': 'application/json', 'Authorization': 'Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NzI4ODgwNzIsInVzZXJfaWQiOjEsInJlZnJlc2giOmZhbHNlLCJ2ZXJpZmllZCI6dHJ1ZX0.ceUQeGzt5GS_TcSfMbz6kWpiAlSTEz2uNJKG9QQ3v20'}
+2025-03-08 20:54:31,715 INFO [root] [tool.py (common_assert:20] - 正在调用公共断言方法
+2025-03-08 20:55:39,502 INFO [root] [api_mp.py (__init__:12] - 正在初始化自媒体登录url：https://api-toutiao-web.itheima.net/mp/v1_0/authorizations
+2025-03-08 20:55:39,502 INFO [root] [api_mp.py (__init__:16] - 正在初始化自媒体发布文章url：https://api-toutiao-web.itheima.net/mp/v1_0/articles?draft=false
+2025-03-08 20:55:39,503 INFO [root] [api_mp.py (api_mp_login:26] - 正在调用自媒体登录接口，请求数据为：{'mobile': '12011111111', 'code': '246810'}
+2025-03-08 20:55:42,702 INFO [root] [tool.py (common_token:14] - 正在提取token，提取后的header为：{'Content-Type': 'application/json', 'Authorization': 'Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NzI4ODgxNDMsInVzZXJfaWQiOjEsInJlZnJlc2giOmZhbHNlLCJ2ZXJpZmllZCI6dHJ1ZX0.44l2kHRYAvVc6ELSdwgvO9YldjqeGhTkJdp6Mq_DbKk'}
+2025-03-08 20:55:42,704 INFO [root] [tool.py (common_assert:20] - 正在调用公共断言方法
+2025-03-08 20:55:42,706 INFO [root] [api_mp.py (api_mp_article:40] - 正在调用发布文章接口，请求数据为：{'title': 'test_interface_001', 'content': '1234114141', 'channel_id': '7', 'cover': {'type': 0, 'iamges': []}}
+2025-03-08 20:57:25,785 INFO [root] [api_mp.py (__init__:12] - 正在初始化自媒体登录url：https://api-toutiao-web.itheima.net/mp/v1_0/authorizations
+2025-03-08 20:57:25,785 INFO [root] [api_mp.py (__init__:16] - 正在初始化自媒体发布文章url：https://api-toutiao-web.itheima.net/mp/v1_0/articles?draft=false
+2025-03-08 20:57:25,785 INFO [root] [api_mp.py (api_mp_article:40] - 正在调用发布文章接口，请求数据为：{'title': 'test_interface_001', 'content': '1234114141', 'channel_id': '7', 'cover': {'type': 0, 'iamges': []}}
+2025-03-08 20:58:39,297 INFO [root] [api_mp.py (__init__:12] - 正在初始化自媒体登录url：https://api-toutiao-web.itheima.net/mp/v1_0/authorizations
+2025-03-08 20:58:39,298 INFO [root] [api_mp.py (__init__:16] - 正在初始化自媒体发布文章url：https://api-toutiao-web.itheima.net/mp/v1_0/articles?draft=false
+2025-03-08 20:58:39,298 INFO [root] [api_mp.py (api_mp_article:40] - 正在调用发布文章接口，请求数据为：{'title': 'test_interface_001', 'content': '1234114141', 'channel_id': '7', 'cover': {'type': 0, 'iamges': []}}
+2025-03-08 21:00:05,542 INFO [root] [api_mp.py (__init__:12] - 正在初始化自媒体登录url：https://api-toutiao-web.itheima.net/mp/v1_0/authorizations
+2025-03-08 21:00:05,542 INFO [root] [api_mp.py (__init__:16] - 正在初始化自媒体发布文章url：https://api-toutiao-web.itheima.net/mp/v1_0/articles?draft=false
+2025-03-08 21:00:05,542 INFO [root] [api_mp.py (api_mp_login:26] - 正在调用自媒体登录接口，请求数据为：{'mobile': '12011111111', 'code': '246810'}
+2025-03-08 21:00:07,474 INFO [root] [tool.py (common_token:14] - 正在提取token，提取后的header为：{'Content-Type': 'application/json', 'Authorization': 'Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NzI4ODg0MDgsInVzZXJfaWQiOjEsInJlZnJlc2giOmZhbHNlLCJ2ZXJpZmllZCI6dHJ1ZX0.5D5f0ji9tdI2txWS34h2lDlKyzTrmJ6LuzKG8SkxAmY'}
+2025-03-08 21:00:07,476 INFO [root] [tool.py (common_assert:20] - 正在调用公共断言方法
+2025-03-08 21:00:07,479 INFO [root] [api_mp.py (api_mp_article:40] - 正在调用发布文章接口，请求数据为：{'title': 'test_interface_001', 'content': '1234114141', 'channel_id': '7', 'cover': {'type': 0, 'iamges': []}}
+2025-03-08 21:01:20,579 INFO [root] [api_mp.py (__init__:12] - 正在初始化自媒体登录url：https://api-toutiao-web.itheima.net/mp/v1_0/authorizations
+2025-03-08 21:01:20,580 INFO [root] [api_mp.py (__init__:16] - 正在初始化自媒体发布文章url：https://api-toutiao-web.itheima.net/mp/v1_0/articles?draft=false
+2025-03-08 21:01:20,581 INFO [root] [api_mp.py (api_mp_login:26] - 正在调用自媒体登录接口，请求数据为：{'mobile': '12011111111', 'code': '246810'}
+2025-03-08 21:01:24,271 INFO [root] [tool.py (common_token:14] - 正在提取token，提取后的header为：{'Content-Type': 'application/json', 'Authorization': 'Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NzI4ODg0ODUsInVzZXJfaWQiOjEsInJlZnJlc2giOmZhbHNlLCJ2ZXJpZmllZCI6dHJ1ZX0.BePQEjqGol7QqWBnmdFe7cxWiChwwvx7-40zoPXeQ4w'}
+2025-03-08 21:01:24,271 INFO [root] [tool.py (common_assert:20] - 正在调用公共断言方法
+2025-03-08 21:01:42,961 INFO [root] [api_mp.py (api_mp_article:40] - 正在调用发布文章接口，请求数据为：{'title': 'test_interface_001', 'content': '1234114141', 'channel_id': '7', 'cover': {'type': 0, 'iamges': []}}
+2025-03-08 21:07:33,206 INFO [root] [api_mp.py (__init__:12] - 正在初始化自媒体登录url：https://api-toutiao-web.itheima.net/mp/v1_0/authorizations
+2025-03-08 21:07:33,206 INFO [root] [api_mp.py (__init__:16] - 正在初始化自媒体发布文章url：https://api-toutiao-web.itheima.net/mp/v1_0/articles?draft=false
+2025-03-08 21:07:33,207 INFO [root] [api_mp.py (api_mp_login:26] - 正在调用自媒体登录接口，请求数据为：{'mobile': '12011111111', 'code': '246810'}
+2025-03-08 21:07:36,851 INFO [root] [tool.py (common_token:14] - 正在提取token，提取后的header为：{'Content-Type': 'application/json', 'Authorization': 'Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NzI4ODg4NTcsInVzZXJfaWQiOjEsInJlZnJlc2giOmZhbHNlLCJ2ZXJpZmllZCI6dHJ1ZX0.Zp7jmLhANhZ1x2RDhmf_TMYWYDILYq1hUCp6VWjU_lM'}
+2025-03-08 21:07:36,852 INFO [root] [tool.py (common_assert:20] - 正在调用公共断言方法
+2025-03-08 21:07:36,854 INFO [root] [api_mp.py (api_mp_article:40] - 正在调用发布文章接口，请求数据为：{'title': 'test_interface_001', 'content': '1234114141', 'channel_id': '7', 'cover': {'type': 0, 'images': []}}
+2025-03-08 21:07:41,967 INFO [root] [tool.py (common_assert:20] - 正在调用公共断言方法

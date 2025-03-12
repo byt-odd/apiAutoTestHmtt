@@ -1,0 +1,21 @@
+2025-03-10 16:31:14,205 INFO [root] [api_mp.py (__init__:12] - 正在初始化自媒体登录url：https://api-toutiao-web.itheima.net/mp/v1_0/authorizations
+2025-03-10 16:31:14,206 INFO [root] [api_mp.py (__init__:16] - 正在初始化自媒体发布文章url：https://api-toutiao-web.itheima.net/mp/v1_0/articles?draft=false
+2025-03-10 16:31:14,208 INFO [root] [api_mp.py (api_mp_login:26] - 正在调用自媒体登录接口，请求数据为：{'mobile': '12011111111', 'code': '246810'}
+2025-03-10 16:31:54,916 INFO [root] [api_mp.py (__init__:12] - 正在初始化自媒体登录url：https://api-toutiao-web.itheima.net/mp/v1_0/authorizations
+2025-03-10 16:31:54,917 INFO [root] [api_mp.py (__init__:16] - 正在初始化自媒体发布文章url：https://api-toutiao-web.itheima.net/mp/v1_0/articles?draft=false
+2025-03-10 16:31:54,919 INFO [root] [api_mp.py (api_mp_login:26] - 正在调用自媒体登录接口，请求数据为：{'mobile': '12011111111', 'code': '246810'}
+2025-03-10 16:33:12,395 INFO [root] [api_mp.py (__init__:12] - 正在初始化自媒体登录url：https://api-toutiao-web.itheima.net/mp/v1_0/authorizations
+2025-03-10 16:33:12,395 INFO [root] [api_mp.py (__init__:16] - 正在初始化自媒体发布文章url：https://api-toutiao-web.itheima.net/mp/v1_0/articles?draft=false
+2025-03-10 16:33:12,396 INFO [root] [api_mp.py (api_mp_login:26] - 正在调用自媒体登录接口，请求数据为：{'mobile': '12011111111', 'code': '246810'}
+2025-03-10 16:33:13,808 INFO [root] [api_mp.py (__init__:12] - 正在初始化自媒体登录url：https://api-toutiao-web.itheima.net/mp/v1_0/authorizations
+2025-03-10 16:33:13,808 INFO [root] [api_mp.py (__init__:16] - 正在初始化自媒体发布文章url：https://api-toutiao-web.itheima.net/mp/v1_0/articles?draft=false
+2025-03-10 16:33:13,809 INFO [root] [api_mp.py (api_mp_login:26] - 正在调用自媒体登录接口，请求数据为：{'mobile': '12011111111', 'code': '246810'}
+2025-03-10 19:19:02,892 INFO [root] [api_mp.py (__init__:12] - 正在初始化自媒体登录url：https://api-toutiao-web.itheima.net/mp/v1_0/authorizations
+2025-03-10 19:19:02,892 INFO [root] [api_mp.py (__init__:16] - 正在初始化自媒体发布文章url：https://api-toutiao-web.itheima.net/mp/v1_0/articles?draft=false
+2025-03-10 19:19:02,894 INFO [root] [api_mp.py (api_mp_login:26] - 正在调用自媒体登录接口，请求数据为：{'mobile': '12011111111', 'code': '246810'}
+2025-03-10 19:19:05,044 INFO [root] [tool.py (common_token:14] - 正在提取token，提取后的header为：{'Content-Type': 'application/json', 'Authorization': 'Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NzMwNTUxNDUsInVzZXJfaWQiOjEsInJlZnJlc2giOmZhbHNlLCJ2ZXJpZmllZCI6dHJ1ZX0.h46wqHICRBX35CYHC_VPsyAzd-o0eo2cDv1wFET7478'}
+2025-03-10 19:19:05,044 INFO [root] [tool.py (common_assert:20] - 正在调用公共断言方法
+2025-03-10 19:36:19,951 INFO [root] [tool.py (common_assert:20] - 正在调用公共断言方法
+2025-03-10 19:42:34,101 INFO [root] [api_mp.py (__init__:12] - 正在初始化自媒体登录url：https://api-toutiao-web.itheima.net/mp/v1_0/authorizations
+2025-03-10 19:42:34,101 INFO [root] [api_mp.py (__init__:16] - 正在初始化自媒体发布文章url：https://api-toutiao-web.itheima.net/mp/v1_0/articles?draft=false
+2025-03-10 19:42:34,104 INFO [root] [api_mp.py (api_mp_login:26] - 正在调用自媒体登录接口，请求数据为：{'mobile': '12011111111', 'code': '246810'}

@@ -1,0 +1,1 @@
+[32mINFO    [0m root:api_mp.py:40 正在调用发布文章接口，请求数据为：{'title': 'test_interface_001', 'content': '1234114141', 'channel_id': '7', 'cover': {'type': 0, 'iamges': []}}
